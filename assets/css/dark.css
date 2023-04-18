@@ -20,6 +20,10 @@ Default CSS
   width: 0;
   height: 0;
 }
+a.buy-now-btn {
+    visibility: hidden;
+    color: black;
+}
 
 .switch-box .slider {
   position: absolute;
